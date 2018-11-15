@@ -6,5 +6,5 @@ def intialize(title)
 end
 
 
-  
+
 end
